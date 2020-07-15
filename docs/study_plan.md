@@ -1,10 +1,10 @@
 ## Algorithms Study Plan
 Duration: **August 3rd 2020 to December 14th 2020**
 
-Books:
-	- [Algorithm Desing Manual from Skiena](https://link.springer.com/book/10.1007%2F978-1-84800-070-4)
-	- Has implementation and explanations [Data Structures and Algorithms with Python](https://link.springer.com/book/10.1007%2F978-3-319-13072-9)
-	- [Data Structures Explained](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)
+#### Books:	
+- [Algorithm Desing Manual from Skiena](https://link.springer.com/book/10.1007%2F978-1-84800-070-4)
+- Has implementation and explanations [Data Structures and Algorithms with Python](https://link.springer.com/book/10.1007%2F978-3-319-13072-9)
+- [Data Structures Explained](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)
 
 All coding will be in python. 
 	

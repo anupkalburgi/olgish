@@ -51,8 +51,9 @@ Continue doing what you where doing. We will get on the call if you have doubts.
 
 
 ### Topics to Revisit 
-Talk about how these are general topics and generally applies across all the languages, eg Java,. 
-Generally these topics are convered in programming language courses. And it is its own field of study. Thought we don't have to understand the dept of the matter, it is essential we understand what these topics are and how we can use them, and what kind of problems we can solve with them
+Talk about how these are general concepts and generally applies across all the languages, eg Java,Scala,JS.
+
+Generally these topics are convered in programming language courses, it is its own field of study. Though we don't have to understand the depth of the matter, it is essential we understand what these topics are and how we can use them, and what kind of problems we can solve using them
 
  - Polymorphism
 	 - Example in code how how we are using .draw method. In this case the draw method is considered polymorphic, as it can change behaviour depending upon who calls it

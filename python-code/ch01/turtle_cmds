@@ -1,0 +1,6 @@
+beginfill, black
+circle, 20, 1, black
+endfill
+penup
+goto, 120, 0, 1, black
+pendown

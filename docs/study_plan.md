@@ -2,16 +2,16 @@
 Duration: **August 3rd 2020 to December 14th 2020**
 
 #### Books:	
-- [Algorithm Desing Manual from Skiena](https://link.springer.com/book/10.1007%2F978-1-84800-070-4)
+- [Algorithm Design Manual from Skiena](https://link.springer.com/book/10.1007%2F978-1-84800-070-4)
 - Has implementation and explanations [Data Structures and Algorithms with Python](https://link.springer.com/book/10.1007%2F978-3-319-13072-9)
-	- Supporting Matrial https://kentdlee.github.io/CS2Plus/build/html/index.html 
+	- Text Book Website https://kentdlee.github.io/CS2Plus/build/html/index.html 
 - [Data Structures Explained](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)
 
 
 All coding will be in python. 
 General Guide: 
-1. Dont keep exporing your self if you are stuck ask the questions
-2. dont write code, if you dont understand the problem. Code is a way of telling something to a computer what todo. Before you can do that you have to know what you need to do 
+1. Don't keep exploring your self if you are stuck ask the questions
+2. don't write code, if you don't understand the problem. Code is a way of telling something to a computer what todo. Before you can do that you have to know what you need to do 
 3. Write code and commit code and ask for feedback as soon as you can
 	
 ### [[Week_1]] - Aug 3 -Aug 7th

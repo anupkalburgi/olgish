@@ -1,6 +1,6 @@
 # Recap Basics
 ## Day 1
-####  Programming Laguages 
+####  Programming Languages 
 Generally thinking programming language as a tool we need to solve a problem is good. And how you solve a problem or view a problem can be done in two popular ways
 -   Object Oriented Way
 	-   java 
@@ -12,14 +12,14 @@ Generally thinking programming language as a tool we need to solve a problem is 
 	-   F#
 	-   lisp
 
-Both style of programming languages have there own advantages and disadvantages. And most of the time we can use use Non Functional languages to write functional code, and the other way around. The important thining we have to understand is concepts within each, and not how they implement that. We will be dicussing them as we cross over that
+Both style of programming languages have there own advantages and disadvantages. And most of the time we can use use Non Functional languages to write functional code, and the other way around. The important thing we have to understand is concepts within each, and not how they implement that. We will be discussing them as we cross over that
 
 ![[Pasted image.png]]
 
-We are going to be using python becasue
+We are going to be using python because
 1. You know it already to a large extent.
 2. very good language to use in a interview. 
-3. has a low barrier to entry, compared to other langaugaes
+3. has a low barrier to entry, compared to other Languages
 4. Most ML frameworks use python
 
 
@@ -34,7 +34,7 @@ We are going to be using python becasue
 
 
 ####  Task for next 2 days
-Read the 1st chapter, what the video about object oriented concepts. The idea is finish as much as possible. Wirte all the code necessary.  
+Read the 1st chapter, what the video about object oriented concepts. The idea is finish as much as possible. Write all the code necessary.  
 - Read [Python Programming 101](https://link.springer.com/chapter/10.1007/978-3-319-13072-9_1)
 - Watch [Object Oriented Concepts](https://www.youtube.com/watch?v=WcTPZjUHpUI&list=PL1DE477438120C9EF&index=31) 
 
@@ -53,22 +53,22 @@ Continue doing what you where doing. We will get on the call if you have doubts.
 ### Topics to Revisit 
 Talk about how these are general concepts and generally applies across all the languages, eg Java,Scala,JS.
 
-Generally these topics are convered in programming language courses, it is its own field of study. Though we don't have to understand the depth of the matter, it is essential we understand what these topics are and how we can use them, and what kind of problems we can solve using them
+Generally these topics are converted in programming language courses, it is its own field of study. Though we don't have to understand the depth of the matter, it is essential we understand what these topics are and how we can use them, and what kind of problems we can solve using them
 
  - Polymorphism
-	 - Example in code how how we are using .draw method. In this case the draw method is considered polymorphic, as it can change behaviour depending upon who calls it
+	 - Example in code how how we are using .draw method. In this case the draw method is considered polymorphic, as it can change behavior depending upon who calls it
  - Inheritance
 	 - generally, we have a hirararcy to it. But we will come back to it as we progress
  - Iterator
 	 - it is a general concept found in a many languages
-	 - it gives a common way of accessing a list like structure. Here the list is refered to as a container. 
-	 - An iterator is an object that has methods that allow you to proccess a collection of items one at a time.
+	 - it gives a common way of accessing a list like structure. Here the list is referred to as a container. 
+	 - An iterator is an object that has methods that allow you to process a collection of items one at a time.
 	 - Once you process that it is done, you cannot generally can't go back. You can only move forward.  it is "consumed"
-	 - Container can be list, tuple, dictonary. Generally it can be any object (remember there is class behind it implementing methods)
+	 - Container can be list, tuple, dictionary. Generally it can be any object (remember there is class behind it implementing methods)
 	 - If a class/object implements a iterator, generally you can wite a for loop for it. This kind of provides confidence to wirite code in a more general way 
 	 - https://docs.python.org/3/glossary.html#term-iterator 
 	 - If you have some time https://www.youtube.com/watch?v=V2PkkMS2Ack
- - accumalator 
+ - accumulator 
 	 - you have used it few times already 
 	 - 
 	 ```python
@@ -84,7 +84,7 @@ Generally these topics are convered in programming language courses, it is its o
 ## Day 4 
  
 #### Keywords
-- Memory Localtion
+- Memory Location
 - Lookup
 - Average Access Time
 

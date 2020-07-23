@@ -55,11 +55,14 @@ Talk about how these are general concepts and generally applies across all the l
 
 Generally these topics are converted in programming language courses, it is its own field of study. Though we don't have to understand the depth of the matter, it is essential we understand what these topics are and how we can use them, and what kind of problems we can solve using them
 
- - Polymorphism
+ - Polymorphism #important #understand
+	 - Good example of it is here https://kentdlee.github.io/CS2Plus/build/html/chap1/chap1.html#the-dog-class 
 	 - Example in code how how we are using .draw method. In this case the draw method is considered polymorphic, as it can change behavior depending upon who calls it
- - Inheritance
-	 - generally, we have a hirararcy to it. But we will come back to it as we progress
- - Iterator
+	 - method overloading is type of polymorphism
+ - Inheritance #important #understand
+	 - generally, we have a hierarchy to it. But we will come back to it as we progress
+ - Iterator #important #understand
+	 - Example of what makes a object iterator  - https://kentdlee.github.io/CS2Plus/build/html/chap1/chap1.html#the-variable-length-records-draw-program. PyList class has a method called `__iter__` (:106)
 	 - it is a general concept found in a many languages
 	 - it gives a common way of accessing a list like structure. Here the list is referred to as a container. 
 	 - An iterator is an object that has methods that allow you to process a collection of items one at a time.
@@ -72,7 +75,6 @@ Generally these topics are converted in programming language courses, it is its 
 	 - you have used it few times already 
 	 - 
 	 ```python
-	 
 	 def total(input_list = [1,2,3,4,5])
 	 	total_sum = 0
 		for element in input_list:
@@ -89,19 +91,3 @@ Generally these topics are converted in programming language courses, it is its 
 - Average Access Time
 
 
-#### Todo
-[] Example Program to demonstrate what is growth rate, ideally would like to have graphs. 
-1. linear time 
-2. Quadratic
-3. exponential time
-Idea to communicate, how we use number of times something is called as a proxy for time
-
-
-
-Euclid algorithms from AoCP
-
-
-Objectives 
-- Object Oriented Programming
-- Classes
-- Objects

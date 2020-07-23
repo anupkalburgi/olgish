@@ -1,5 +1,5 @@
 import turtle
-
+import itertools
 
 def main():
     t: turtle.Turtle = turtle.Turtle()

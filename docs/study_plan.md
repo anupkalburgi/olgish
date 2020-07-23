@@ -8,6 +8,11 @@ Duration: **August 3rd 2020 to December 14th 2020**
 - [Data Structures Explained](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)
 
 
+##### Tools
+- Install wing IDE
+- Visualize Code Execution - Very helpful when you have code and need to see how value of variables change and debug the code - http://pythontutor.com/visualize.html#mode=edit
+
+
 All coding will be in python. 
 General Guide: 
 1. Don't keep exploring your self if you are stuck ask the questions
@@ -22,9 +27,9 @@ General Guide:
 
 ### [[Week_2]] - Aug 3 -Aug 7th
 #### We will learn
-1.
-2.
-3.
+1. Understand why computer take time to run a piece of code
+2. How much time does a computer take, and can we get a intution about how long a algorithm/computer program is going to take
+3. And can we prove that it is not going to take longer than that. - We will see some easy methods to do that.
 
 ### Week 3 - Aug 10 -Aug 14th
 #### We will learn

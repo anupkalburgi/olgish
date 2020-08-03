@@ -5,7 +5,10 @@ Duration: **August 3rd 2020 to December 14th 2020**
 - [Algorithm Design Manual from Skiena](https://link.springer.com/book/10.1007%2F978-1-84800-070-4)
 - Has implementation and explanations [Data Structures and Algorithms with Python](https://link.springer.com/book/10.1007%2F978-3-319-13072-9)
 	- Text Book Website https://kentdlee.github.io/CS2Plus/build/html/index.html 
-- [Data Structures Explained](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)
+- [Algorithms Playlist by Abdul Bari](https://www.youtube.com/watch?v=xGYsEqe9Vl0&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=4) Good resource to go back and watch from time to time, has very clear and straight foward explanations
+- [Programming, Data Structure and Algorithms](https://nptel.ac.in/courses/106/106/106106145/)
+	- One of the best things I have seen, practical, to the point and clear
+	- And the other one that is great is https://nptel.ac.in/courses/106/106/106106131/ 
 
 
 ##### Tools
@@ -16,8 +19,9 @@ Duration: **August 3rd 2020 to December 14th 2020**
 All coding will be in python. 
 General Guide: 
 1. Don't keep exploring your self if you are stuck ask the questions
-2. don't write code, if you don't understand the problem. Code is a way of telling something to a computer what todo. Before you can do that you have to know what you need to do 
-3. Write code and commit code and ask for feedback as soon as you can
+2. don't write code, if you don't understand the problem. Code is a way of telling something to a computer what todo. Before you can tell anyone anything you yourself should have a clear understanding.
+3. Write code and commit code and ask for feedback as soon as you can.
+4. First 30% of the time spending understanding the concept, next 70% should be solving problems, for the concepts that where learned.
 	
 ### [[Week_1]] - Aug 3 -Aug 7th
 #### We will learn
@@ -33,14 +37,14 @@ General Guide:
 
 ### Week 3 - Aug 10 -Aug 14th
 #### We will learn
-1.
-2.
+1. Sorting
+2. Analyzing Sorting
 3.
 
 ### Week 4 - Aug 17 -Aug 21
 #### We will learn
-1.
-2.
+1. Searching and Sorting
+2. Problems
 3.
 
 ### Week 5 - Aug 24 -Aug 28th

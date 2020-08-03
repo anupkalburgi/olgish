@@ -86,8 +86,8 @@ Generally these topics are converted in programming language courses, it is its 
 ## Day 4 
  
 #### Keywords
-- Memory Location
-- Lookup
+- Data Structures / Algorithms / Divide and Conquer / Greedy / Graphs 
+	- What do these mean? How they are different from each other
 - Average Access Time
 
 

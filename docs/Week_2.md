@@ -14,7 +14,7 @@
 - Big-Oh notation #important #understand
 - amortized complexity
 
-
+##### Memory Organization in Computer
 ![[Pasted image 1.png]]
 
 #### Todo

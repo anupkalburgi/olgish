@@ -8,7 +8,9 @@ Duration: **August 3rd 2020 to December 14th 2020**
 - [Algorithms Playlist by Abdul Bari](https://www.youtube.com/watch?v=xGYsEqe9Vl0&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=4) Good resource to go back and watch from time to time, has very clear and straight foward explanations
 - [Programming, Data Structure and Algorithms](https://nptel.ac.in/courses/106/106/106106145/)
 	- One of the best things I have seen, practical, to the point and clear
-	- And the other one that is great is https://nptel.ac.in/courses/106/106/106106131/ 
+	- And the other one that is great is 
+	
+	
 
 
 ##### Tools

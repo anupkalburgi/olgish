@@ -1,7 +1,7 @@
 import random
 '''
 input:  5,4,3,1,2,6
-output: 1,2,3,4,4,5,6
+output: 1,2,3,4,5,6
 '''
 def insertion_sort(elms):
     n = len(elms)

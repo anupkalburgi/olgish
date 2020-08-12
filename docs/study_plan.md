@@ -38,19 +38,16 @@ General Guide:
 3. And can we prove that it is not going to take longer than that. - We will see some easy methods to do that.
 
 ### Week 3 - Aug 10 -Aug 14th
-#### We will learn
 1. Sorting
 2. Analyzing Sorting
-3.
 
 ### Week 4 - Aug 17 -Aug 21
-#### We will learn
-1. Searching and Sorting
-2. Problems
-3.
+1. Searching and 
+2. Sorting 
+3. Problems
+
 
 ### Week 5 - Aug 24 -Aug 28th
-#### We will learn
 1.
 2.
 3.

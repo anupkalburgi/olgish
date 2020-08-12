@@ -49,29 +49,7 @@ Code in python-code dir
 Idea to communicate, how we use number of times something is called as a proxy for time
 
 
-
-
-Euclid algorithms from AoCP
-
-
-Step
-- Basic Operation 
-- assigning a value
-- a < b 
-- we can define our steps with as block
-
-What is the time taken proprtional to 
-- n i.e the input size
-- worst possible case
-
-
-Show analysis of algorithms 
-- O(n2)
-- selection sort
-
-log (2) 1000 = 10
-
-
 #### Day3 - Examples
+[[Week2_problems]]
 
 #### Day 4/ 5 Problems

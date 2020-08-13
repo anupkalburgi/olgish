@@ -15,10 +15,14 @@ Helpful Resources
 - Why do we care that it actually takes time
 - Now that we know we care about why computers take time, we need a way of measuring how long they take, how do we measure them
 
+### Day 2 Tuesday
+- recursion and how that works 
 
-### Day 2 - Tuesday
-- How to measure growth
-- what is the way to prove it
+
+### Day 3 - Practice Canceled, Oversleeping
+
+### Day 4 - Wednesday
+- How to measure growth, how do we represent it
 
 ####  Insertion Sort 
 Code in python-code dir
@@ -29,11 +33,24 @@ Code in python-code dir
 - Best case - when the elements are reversed
 	-  [25 Steps](http://pythontutor.com/visualize.html#code=def%20insertion_sort%28elms%29%3A%0A%20%20%20%20n%20%3D%20len%28elms%29%0A%20%20%20%20for%20i%20in%20range%28n%29%3A%0A%20%20%20%20%20%20%20%20j%20%3D%20i%0A%20%20%20%20%20%20%20%20while%20%28j%20%3E%200%20and%20elms%5Bj%5D%20%3C%20elms%5Bj-1%5D%29%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20tmp%20%3D%20elms%5Bj-1%5D%0A%20%20%20%20%20%20%20%20%20%20%20%20elms%5Bj-1%5D%20%3D%20elms%5Bj%5D%0A%20%20%20%20%20%20%20%20%20%20%20%20elms%5Bj%5D%20%3D%20tmp%0A%20%20%20%20%20%20%20%20%20%20%20%20j%20%3D%20j%20-%201%0A%20%20%20%20return%20elms%0A%0Ainsertion_sort%28%5B1,2,3,4,5,6%5D%29&cumulative=false&curInstr=0&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false)
 
+While the above number of steps is useful and good to know we want a better way to express this, and there is a established way of doing it. 
 
-- Big-Oh notation #important #understand
-	- It is all about how the growth is
-- amortized complexity
+Let us  analyze insertion sort
+- Proof that it is correct using Induction 
+	- ![[Pasted image 3.png]]
+- How much time does it actually take 
+	- line by line analysis
+		- the best case 
+			- ![[Pasted image 4.png]]
+		- the worst case
+		- ![[Pasted image 5.png]]
 
+Day 5 
+- Divide and Conquer
+- Merge Sort
+- How this is efficient 
+- Merge Sort analysis 
+---
 ##### Memory Organization in Computer
 ![[Pasted image 1.png]]
 

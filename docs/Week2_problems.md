@@ -17,7 +17,8 @@
 - https://leetcode.com/problems/find-all-duplicates-in-an-array/
 	- very good problem to solve, as the solution can be evolved from n^2 -> nlogn -> n with no extra space
 	- also communicates that a problem can be solved in multiple ways
-
+- https://leetcode.com/problems/product-of-array-except-self/
+	- challenging, teaches somewhat new approach like scaning the array backwords and forwards 
 
 ## Hard
 - https://leetcode.com/problems/insert-interval/

@@ -2,7 +2,7 @@
 Duration: **August 3rd 2020 to December 14th 2020**
 
 #### Books:	
-- [Algorithm Design Manual from Skiena](https://link.springer.com/book/10.1007%2F978-1-84800-070-4)
+- [Algorithm Design Manual from Skiena](https://link.springer.com/content/pdf/10.1007%2F978-1-84800-070-4.pdf)
 - Has implementation and explanations [Data Structures and Algorithms with Python](https://link.springer.com/book/10.1007%2F978-3-319-13072-9)
 	- Text Book Website https://kentdlee.github.io/CS2Plus/build/html/index.html 
 - [Algorithms Playlist by Abdul Bari](https://www.youtube.com/watch?v=xGYsEqe9Vl0&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=4) Good resource to go back and watch from time to time, has very clear and straight foward explanations

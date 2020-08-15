@@ -37,7 +37,7 @@ While the above number of steps is useful and good to know we want a better way 
 
 Let us  analyze insertion sort
 - Proof that it is correct using Induction 
-	- ![Pasted_image_3](hs-process/images/Pasted_image_3.png)
+	- ![Pasted_image_3](/hs-process/images/Pasted_image_3.png)
 - How much time does it actually take 
 	- line by line analysis
 		- the best case 

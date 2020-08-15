@@ -37,13 +37,13 @@ While the above number of steps is useful and good to know we want a better way 
 
 Let us  analyze insertion sort
 - Proof that it is correct using Induction 
-	- ![Pasted_image_3](/hs-process/images/Pasted_image_3.png)
+	- ![Pasted_image_3](hs-process/images/Pasted_image_3.png)
 - How much time does it actually take 
 	- line by line analysis
 		- the best case 
-			- ![Pasted_image_4](Pasted_image_4.png)
+			- ![Pasted_image_4](hs-process/images/Pasted_image_4.png)
 		- the worst case
-		- ![Pasted_image_5](Pasted_image_5.png)
+		- ![Pasted_image_5](hs-process/images/Pasted_image_5.png)
 
 Day 5 
 - Divide and Conquer
@@ -52,7 +52,7 @@ Day 5
 - Merge Sort analysis 
 ---
 ##### Memory Organization in Computer
-![Pasted_image_1](Pasted_image_1.png)
+![Pasted_image_1](hs-process/images/Pasted_image_1.png)
 
 #### Complexities 
 - Linear -- O(n)
@@ -61,7 +61,7 @@ Day 5
 - Logarithmic -- O(log n)
 - Exponential -- O(2n)
 - Square root -- O(sqrt n)
-![Pasted_image_2](Pasted_image_2.png)
+![Pasted_image_2](hs-process/images/Pasted_image_2.png)
 (source: http://science.slc.edu/~jmarshall/courses/2002/spring/cs50/BigO/index.html)
 Idea to communicate, how we use number of times something is called as a proxy for time
 

@@ -14,7 +14,7 @@ Generally thinking programming language as a tool we need to solve a problem is 
 
 Both style of programming languages have there own advantages and disadvantages. And most of the time we can use use Non Functional languages to write functional code, and the other way around. The important thing we have to understand is concepts within each, and not how they implement that. We will be discussing them as we cross over that
 
-![Pasted_image](Pasted_image.png)
+![Pasted_image](hs-process/images/Pasted_image.png)
 
 We are going to be using python because
 1. You know it already to a large extent.

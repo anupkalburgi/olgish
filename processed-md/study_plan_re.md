@@ -41,7 +41,7 @@ Let us  analyze insertion sort
 - How much time does it actually take 
 	- line by line analysis
 		- the best case 
-			- ![Pasted image 4](Pasted image 4.png)
+			- ![Pasted image 4](Pasted_image_4.png)
 		- the worst case
 		- ![Pasted image 5](Pasted image 5)
 

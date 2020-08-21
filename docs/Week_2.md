@@ -45,14 +45,18 @@ Let us  analyze insertion sort
 		- the worst case
 		- ![[Pasted image 5.png]]
 
-Day 5 
+Day 5 (Not completed moved to next week)
 - Divide and Conquer
 - Merge Sort
 - How this is efficient 
 - Merge Sort analysis 
 ---
-##### Memory Organization in Computer
+
+
+##### Memory Organization in Computer  #pending
 ![[Pasted image 1.png]]
+
+
 
 #### Complexities 
 - Linear -- O(n)

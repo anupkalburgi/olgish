@@ -48,12 +48,10 @@ General Guide:
 
 
 ### Week 5 - Aug 24 -Aug 28th
-1.
-2.
-3.
+- Mostly spent all the week doing problems. But that was necessary.
 
 
-### Week 6 - Aug 31 -Sep 4th
+### Week 6 - Aug 31 -Sep 4th	
 #### We will learn
 1.
 2.

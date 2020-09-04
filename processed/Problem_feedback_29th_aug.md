@@ -19,3 +19,12 @@
 - implement  finding duplicate using binary search 
 - Pivot Index  ![Pasted_image_8](/processed/images/Pasted_image_8.png)
 	- using 2 array ![Pasted_image_9](/processed/images/Pasted_image_9.png) 
+
+
+3rd Sept
+- [ ] Pivot Index, using two array approach, calculate the pivot.
+- [ ] merging sorted array fix the scaning of the array for the C ⚒ don't use l
+- [ ] over lapping interval, and how to sort,  and remove the least 
+- [ ] https://leetcode.com/problems/search-insert-position/ 
+- [ ] https://leetcode.com/problems/pancake-sorting/
+- [ ] 

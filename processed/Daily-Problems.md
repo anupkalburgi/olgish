@@ -27,4 +27,9 @@
 - [ ] over lapping interval, and how to sort,  and remove the least 
 - [ ] https://leetcode.com/problems/search-insert-position/ 
 - [ ] https://leetcode.com/problems/pancake-sorting/
-- [ ] 
+
+
+# 6th Sept 
+- [ ] https://leetcode.com/problems/robot-return-to-origin/
+- [ ] https://leetcode.com/problems/reorder-data-in-log-files/
+- [ ] Solve merging intervals using merge sort

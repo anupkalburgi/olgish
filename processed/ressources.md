@@ -10,3 +10,6 @@ Coursera Course
 - They have quiz which probably i can use.
 	https://www.coursera.org/learn/algorithms-part1#syllabus
 	https://www.coursera.org/learn/algorithms-part2#syllabus
+	
+	Competitive Programming 
+	- https://cses.fi/book/book.pdf

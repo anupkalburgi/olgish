@@ -42,27 +42,28 @@ General Guide:
 2. Analyzing Sorting
 
 ### Week 4 - Aug 17 -Aug 21
-1. Searching and 
-2. Sorting 
-3. Problems
+1. Searching and Sorting 
+2. Problems
 
 
 ### Week 5 - Aug 24 -Aug 28th
-- Mostly spent all the week doing problems. But that was necessary.
+1. Merge Sort
+2. Mostly spent all the week doing problems. But that was necessary.
 
 
 ### Week 6 - Aug 31 -Sep 4th	
 #### We will learn
-1.
-2.
-3.
+1. Binary Search
+2. Solved problems, optimizing going over a lot of optimal solutions. 
 
 
-### Week 7 - Sep 7 -Sep 11
+
+### [[Week_7]] - Sep 7 -Sep 11
 #### We will learn
-1.
+1. Heap Sort
 2.
 3.
+
 ### Week 8 - Sep 14 -Sep 18
 ##### We will take, rest here. Or move this to match with Deepawali
 

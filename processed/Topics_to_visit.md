@@ -1,0 +1,3 @@
+- Binary Search Tree
+- Matrix rotations and stuff
+- Parsing - Finite Automata - Context free grammer and non context free once - in python scala and hasell 

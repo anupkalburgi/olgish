@@ -6,14 +6,14 @@
 - Pivot element missing n solution
 
 
-1st-Sept
+## 1st-Sept
 - TwoSum, do it using binary search. 
 - find duplicates, using binary search - no inbuilt 
 - two sum, not a good solution. - no inbuilt
 - subarray,  how to generate- using for index
 - binary search iterative - algorithm
 
-2nd-Sept
+## 2nd-Sept
 - where is the merging interval problem - https://leetcode.com/problems/non-overlapping-intervals/
 - write a program which takes two sorted arrays and gives back a new array containing elements that are present in both of the input arrays. And there should not be any duplicates - [2,3,3,5,5,6,7,7,8,12] and [5,5,6,8,8,9,10,10] answer is [5,6,8]
 - implement  finding duplicate using binary search 
@@ -21,15 +21,15 @@
 	- using 2 array ![[Pasted image 9.png]] 
 
 
-3rd Sept
-- [ ] Pivot Index, using two array approach, calculate the pivot.
+## 3rd Sept
+- [x] Pivot Index, using two array approach, calculate the pivot.
 - [ ] merging sorted array fix the scaning of the array for the C ⚒ don't use l
 - [ ] over lapping interval, and how to sort,  and remove the least 
-- [ ] https://leetcode.com/problems/search-insert-position/ 
-- [ ] https://leetcode.com/problems/pancake-sorting/
+- [x] https://leetcode.com/problems/search-insert-position/ 
+- [x] https://leetcode.com/problems/pancake-sorting/
 
 
 # 6th Sept 
-- [ ] https://leetcode.com/problems/robot-return-to-origin/
+- [x] https://leetcode.com/problems/robot-return-to-origin/
 - [ ] https://leetcode.com/problems/reorder-data-in-log-files/
-- [ ] Solve merging intervals using merge sort
+- [x] Solve merging intervals using merge sort

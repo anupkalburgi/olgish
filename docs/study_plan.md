@@ -68,7 +68,7 @@ General Guide:
 ### [[Week 8]] - Sep 14 -Sep 18
 1. Continue with Binary Trees
 
-### [[Week 9]] - Sep 21 -Sep 25
+### [[Week_9]] - Sep 21 -Sep 25
 #### We will learn
 1.
 2.

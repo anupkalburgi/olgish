@@ -55,19 +55,20 @@ General Guide:
 #### We will learn
 1. Binary Search
 2. Solved problems, optimizing going over a lot of optimal solutions. 
+3. 
 
 
 
 ### [[Week_7]] - Sep 7 -Sep 11
 #### We will learn
 1. Heap Sort
-2.
-3.
+2. Getting Started with Binary Trees
+3. Missed 3 days
 
-### Week 8 - Sep 14 -Sep 18
-##### We will take, rest here. Or move this to match with Deepawali
+### [[Week 8]] - Sep 14 -Sep 18
+1. Continue with Binary Trees
 
-### Week 9 - Sep 21 -Sep 25
+### [[Week 9]] - Sep 21 -Sep 25
 #### We will learn
 1.
 2.

@@ -4,8 +4,8 @@
 	2. Is the binary tree balanced - https://leetcode.com/problems/balanced-binary-tree/
 	3. Path Sum - https://leetcode.com/problems/path-sum/
 	4. Maximum depth - https://leetcode.com/problems/maximum-depth-of-binary-tree/
-	5. Find diameter of a binary Tree - https://leetcode.com/problems/diameter-of-binary-tree/
-	6. Invert a binary Tree - https://leetcode.com/problems/invert-binary-tree/
+	5. Find diameter of a binary Tree(ii) - https://leetcode.com/problems/diameter-of-binary-tree/
+	6. Invert a binary Tree(ii) - https://leetcode.com/problems/invert-binary-tree/
 
 2. Abstract Data Type ?
 4. What is sorting in place ?

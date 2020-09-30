@@ -1,11 +1,13 @@
 
 1. Problems 
-	1. Computer the lowest common ancestor in Binary Tree	- https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
-	2. Is the binary tree balanced - https://leetcode.com/problems/balanced-binary-tree/
-	3. Path Sum - https://leetcode.com/problems/path-sum/
+	1. Computer the lowest common ancestor in Binary Tree	- https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ ✅
+	2. Is the binary tree balanced - https://leetcode.com/problems/balanced-binary-tree/ ✅
+	3. Path Sum - https://leetcode.com/problems/path-sum/ ✅
 	4. Maximum depth - https://leetcode.com/problems/maximum-depth-of-binary-tree/
 	5. Find diameter of a binary Tree(ii) - https://leetcode.com/problems/diameter-of-binary-tree/
 	6. Invert a binary Tree(ii) - https://leetcode.com/problems/invert-binary-tree/
+	7. All nodes at distance k in a binary tree(iii) - https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
+
 
 2. Abstract Data Type ?
 4. What is sorting in place ?

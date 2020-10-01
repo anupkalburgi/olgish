@@ -7,6 +7,7 @@
 	5. Find diameter of a binary Tree(ii) - https://leetcode.com/problems/diameter-of-binary-tree/
 	6. Invert a binary Tree(ii) - https://leetcode.com/problems/invert-binary-tree/
 	7. All nodes at distance k in a binary tree(iii) - https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
+	8. Max path sum(iiii) - https://leetcode.com/problems/binary-tree-maximum-path-sum/ - 
 
 
 2. Abstract Data Type ?

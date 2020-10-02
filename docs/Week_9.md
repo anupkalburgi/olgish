@@ -8,7 +8,13 @@
 		- also try and get the path of the maximum diamter
 	6. Invert a binary Tree(ii) - https://leetcode.com/problems/invert-binary-tree/
 	7. All nodes at distance k in a binary tree(iii) - https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
-	8. Max path sum(iiii) - https://leetcode.com/problems/binary-tree-maximum-path-sum/ - 
+	8. Max path sum(iv) - https://leetcode.com/problems/binary-tree-maximum-path-sum/ - 
+	9. Difference between node and ancestor(v) https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/
+	10. Sum of node when even valued grand parent(v) - https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/ 
+	11. Binary Tree Camera(v) - https://leetcode.com/problems/binary-tree-cameras/description/
+	12. Binary Tree Coloring game(v) - https://leetcode.com/problems/binary-tree-coloring-game/description/
+	13. Distribute Coins in Binary Tree (v) - https://leetcode.com/problems/distribute-coins-in-binary-tree/description/ 
+	14. 
 
 
 2. Abstract Data Type ?

@@ -29,6 +29,11 @@ For example, boundary traversal of the following tree is â€œ20 8 4 10 14 25 22â€
 ![[Pasted image 20201006201421.png]]
 
 
+- https://leetcode.com/problems/minimum-depth-of-binary-tree/
+- https://leetcode.com/problems/binary-tree-level-order-traversal/
+- https://leetcode.com/problems/path-sum-ii/
+- https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+- 
 2. Abstract Data Type ?
 4. What is sorting in place ?
 

@@ -26,7 +26,7 @@ The left-most node is defined as a leaf node you could reach when you always fir
 
 The right-most node is also defined in the same way with left and right exchanged.
 For example, boundary traversal of the following tree is “20 8 4 10 14 25 22”
-![[Pasted image 20201006201421.png]]
+![Pasted_image_20201006201421](/processed/images/Pasted_image_20201006201421.png)
 
 
 2. Abstract Data Type ?

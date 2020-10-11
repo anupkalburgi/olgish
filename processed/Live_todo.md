@@ -1,3 +1,6 @@
+Mind Mapping for what we have learned so far 
+https://app.mindmup.com/map/_free/2020/10/ceaf50900bee11eb9c50fd66bac808a5
+
 - [x] why is this solution like this ? https://github.com/archana15/Algorithms/pull/17/files#diff-d879dd3373b16f375cbf758efe1c1627R65
 	- [x] what is the thing that you actually learnt here
 	- [x] what is the point of having a queue, what made you use that ?
@@ -26,4 +29,4 @@
 	- [ ] arrays
 	- [ ] binary tree
 	- [ ] binary search tree 
-	- [ ] create a mind map for this
+		![Pasted_image_20201011142445](/processed/images/Pasted_image_20201011142445.png)

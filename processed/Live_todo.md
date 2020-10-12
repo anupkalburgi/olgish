@@ -20,13 +20,17 @@ https://app.mindmup.com/map/_free/2020/10/ceaf50900bee11eb9c50fd66bac808a5
 
 11th- Oct
 - [ ] Path sum - II, missing how to think about the problem
-- [ ] Closest node to a given target in a binary search tree, (https://github.com/archana15/Algorithms/pull/17/files)
-	- [ ] what is the complexity of this is the solution 
-	- [ ] how can we do this better ?
-		- [ ] are we using the fact that, the given input in a binary search tree ?
-		- [ ] what is the property of a binary search tree.
+- [x] Closest node to a given target in a binary search tree, (https://github.com/archana15/Algorithms/pull/17/files)
+	- [x] what is the complexity of this is the solution 
+	- [x] how can we do this better ?
+		- [x] are we using the fact that, the given input in a binary search tree ?
+		- [x] what is the property of a binary search tree.
 - [ ] review how searching works in these three data structures
 	- [ ] arrays
 	- [ ] binary tree
 	- [ ] binary search tree 
 		![Pasted_image_20201011142445](/processed/images/Pasted_image_20201011142445.png)
+		
+		
+12-Oct-2020
+- [ ] what is the difference between  

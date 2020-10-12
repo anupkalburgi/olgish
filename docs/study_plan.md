@@ -55,7 +55,6 @@ General Guide:
 #### We will learn
 1. Binary Search
 2. Solved problems, optimizing going over a lot of optimal solutions. 
-3. 
 
 
 
@@ -69,29 +68,17 @@ General Guide:
 1. Continue with Binary Trees
 
 ### [[Week_9]] - Sep 21 -Sep 25
-#### We will learn
-1.
-2.
-3.
-##### Testsing our understanding
+1. Solving problems, relearning a lot of stuff
+
 
 ### Week 10 - Sep 28 -Oct 2
-#### We will learn
-1.
-2.
-3.
-
+1. Again solving problems going over the concepts that we thought we understood
 ### Week 11 - Oct 4 -Oct 9
-#### We will learn
-1.
-2.
-3.
+1. Solving problems again,
+
 
 ### Week 12 - Oct 12 - Oct 16 
-#### We will learn
-1.
-2.
-3.
+1. Finial week of solving problems and learning again
 
 ### Week 12 - Oct 19 - Oct 23
 #### We will learn

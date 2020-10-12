@@ -1,1 +1,17 @@
-- List of problems https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions
+- List of problems 
+	- has very nice breakdown of problems one should be doing in graphs
+	- https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions
+
+- BFS
+	- Algorithms
+	- implementations 
+	- Shortest path of something
+- DFS
+	- Algorithm
+	- implementation
+	- longest possible path
+- Union Find
+- Are almost all problems based on of matrix or are these some that use python objects with pointers
+- Finding cycled
+- Dependency
+- Topological Sorting - Dependency management

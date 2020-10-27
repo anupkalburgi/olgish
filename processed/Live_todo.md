@@ -32,5 +32,6 @@ https://app.mindmup.com/map/_free/2020/10/ceaf50900bee11eb9c50fd66bac808a5
 		![Pasted_image_20201011142445](/processed/images/Pasted_image_20201011142445.png)
 		
 		
-12-Oct-2020
-- [ ] what is the difference between  
+14-Oct-2020
+- [	 ] what is going on here https://github.com/archana15/Algorithms/pull/22/file
+		

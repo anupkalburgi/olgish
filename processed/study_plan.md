@@ -86,8 +86,10 @@ General Guide:
 2.
 3.
 
-### Week 13 - Oct 26 - Oct 30
-##### Break - Revision and such 
+### [[Week 13]] - Oct 26 - Oct 30
+##### 
+1. Started with Graphs 
+2. Solving [[GraphProblems]] slowly
 
 ### Week 14 - Nov 2 - Nov 6
 #### We will learn

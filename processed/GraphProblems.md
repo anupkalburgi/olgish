@@ -49,3 +49,19 @@ Output #
 All connected components in a graph in a list as a string
 
 ![Screen_Shot_2020-10-28_at_8.05.15_PM](/processed/images/Screen_Shot_2020-10-28_at_8.05.15_PM.png)
+
+---
+
+### 5 - Detect Cycle
+
+The concept of loops or cycles is very common in graph theory. A cycle exists when you traverse the graph and come upon a vertex which has already been visited.
+
+You have to implement the detect_cycle function which tells you whether or not a graph contains a cycle.
+
+Input #
+A graph
+
+Output #
+True if a cycle exists and False, if it doesn’t
+
+![Pasted_image_20201028200917](/processed/images/Pasted_image_20201028200917.png)

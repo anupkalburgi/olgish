@@ -65,3 +65,16 @@ Output #
 True if a cycle exists and False, if it doesn’t
 
 ![[Pasted image 20201028200917.png]]
+
+
+### 10-29-2020
+- https://leetcode.com/problems/surrounded-regions/
+- https://leetcode.com/problems/number-of-enclaves/
+- https://leetcode.com/problems/time-needed-to-inform-all-employees/
+- https://leetcode.com/problems/keys-and-rooms/
+- https://leetcode.com/problems/max-area-of-island/
+- https://leetcode.com/problems/01-matrix/
+- https://leetcode.com/problems/as-far-from-land-as-possible/
+- https://leetcode.com/problems/rotting-oranges/  
+- https://leetcode.com/problems/shortest-path-in-binary-matrix/
+- 

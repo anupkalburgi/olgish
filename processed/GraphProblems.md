@@ -1,4 +1,4 @@
-## 1 
+### 1 
 
 Input #
 A graph represented as an adjacency list and a starting vertex
@@ -9,7 +9,7 @@ A string containing the vertices of the graph listed in the correct order of tra
 
 ---
 
-## 2 
+### 2 
 
 	
 You have to implement a function which will take a graph as input and print its transpose.
@@ -23,7 +23,7 @@ Return a transpose of the given graph
 
 
 ---
-## 3 - Find all Paths between Two Nodes
+### 3 - Find all Paths between Two Nodes
 
 Implement a function that prints all paths that exist between two nodes (source to destination).
 
@@ -68,13 +68,24 @@ True if a cycle exists and False, if it doesn’t
 
 
 ### 10-29-2020
+https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions
+
+
 - https://leetcode.com/problems/surrounded-regions/
 - https://leetcode.com/problems/number-of-enclaves/
 - https://leetcode.com/problems/time-needed-to-inform-all-employees/
 - https://leetcode.com/problems/keys-and-rooms/
+	- How did you realize that you have to use a array and index off of it ? what exactly dove you to that solution
 - https://leetcode.com/problems/max-area-of-island/
 - https://leetcode.com/problems/01-matrix/
 - https://leetcode.com/problems/as-far-from-land-as-possible/
 - https://leetcode.com/problems/rotting-oranges/  
 - https://leetcode.com/problems/shortest-path-in-binary-matrix/
-- 
+
+
+
+### 11-12-2020
+1. https://leetcode.com/problems/deepest-leaves-sum/ - > 
+2. https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/ ->
+3.  https://leetcode.com/problems/find-bottom-left-tree-value/  -> 
+4.  https://leetcode.com/problems/find-largest-value-in-each-tree-row/discuss/98971/9ms-JAVA-DFS-solution

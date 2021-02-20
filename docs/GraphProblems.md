@@ -74,13 +74,19 @@ https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Probl
 - https://leetcode.com/problems/surrounded-regions/
 - https://leetcode.com/problems/number-of-enclaves/
 - https://leetcode.com/problems/time-needed-to-inform-all-employees/
+	- Done
 - https://leetcode.com/problems/keys-and-rooms/
 	- How did you realize that you have to use a array and index off of it ? what exactly dove you to that solution
 - https://leetcode.com/problems/max-area-of-island/
+	- Done
 - https://leetcode.com/problems/01-matrix/
-- https://leetcode.com/problems/as-far-from-land-as-possible/
+	- Done
+- https://leetcode.com/problems/as-far-from-land-as-possible
+	- Done after some difficulty
 - https://leetcode.com/problems/rotting-oranges/  
+	- Done after great difficulty
 - https://leetcode.com/problems/shortest-path-in-binary-matrix/
+	- Done
 
 
 
